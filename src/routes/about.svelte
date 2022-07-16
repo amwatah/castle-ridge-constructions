@@ -13,6 +13,7 @@
 		{:else}
 			<section class="about w-screen h-screen ">
 				<img src={Team} alt="team" class=" h-[35vh] w-full" />
+				
 				<h1 class="text-lg font-bold">WHO WE ARE</h1>
 				<p class="">
 					We are a construction agency, we have been helping many businessmen and women and also
@@ -26,6 +27,7 @@
 					Our office is located at Maasai Mall building in rongai, second floor room 23. You can
 					call us : 0706313018 or email us :castleridgeconstructions@gmail.com
 				</p>
+				
 			</section>
 		{/if}
 	{:else}

@@ -1,9 +1,7 @@
 <script lang="ts">
 import { goto } from "$app/navigation";
-
 import { db } from "$lib/firebase";
 import { currentUserDetail } from "$lib/store";
-
 import Icon from "@iconify/svelte";
 import { addDoc, collection, getDocs, query, serverTimestamp, where } from "firebase/firestore";
 
