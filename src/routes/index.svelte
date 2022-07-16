@@ -71,7 +71,7 @@ import { addDoc, collection, getDocs, query, serverTimestamp, where } from "fire
    
     <input bind:value={ newUsername}  placeholder=" username" type="text" class=" input input-primary ">
     <input bind:value={ phone} placeholder="contact" type="email"  class="input input-primary">
-    <input bind:value={ email}  placeholder="email" type="tel" name="" id="" class="input input-primary">
+    <input bind:value={ email}  placeholder="email" type="email" name="" id="" class="input input-primary">
     <input bind:value={ newPassword } placeholder=" password" type="text" class=" input input-primary ">
     <input bind:value={ newConfirmPassWord} placeholder=" confirm password" type="text" class=" input input-primary ">
     <button on:click={registerNewUser} class="btn w-full">REGISTER</button>
