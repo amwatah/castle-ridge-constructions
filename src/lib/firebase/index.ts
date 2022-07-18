@@ -3,13 +3,13 @@ import { initializeApp } from "firebase/app";
 import { getFirestore} from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBM9kDMgnWijwwlLnyTlXIrX9LZDrb_IPo",
-  authDomain: "castle-ridge.firebaseapp.com",
-  projectId: "castle-ridge",
-  storageBucket: "castle-ridge.appspot.com",
-  messagingSenderId: "1078326365673",
-  appId: "1:1078326365673:web:57be1f827db72ce5f74f78",
-  measurementId: "G-SKJPWR9NE6"
+  apiKey: "AIzaSyD_eG901MhT-pletE3IH9ZtnGouD97mJk0",
+  authDomain: "castle-rigdge-construction.firebaseapp.com",
+  projectId: "castle-rigdge-construction",
+  storageBucket: "castle-rigdge-construction.appspot.com",
+  messagingSenderId: "48766259167",
+  appId: "1:48766259167:web:7b2d8894d8f5f261697e6a",
+  measurementId: "G-T8M3B6YFYR"
 };
 
 
